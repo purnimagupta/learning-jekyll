@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "A little about me"
+date:   2018-06-21 18:42:40 +0530
+categories: about
+---
+
+**I'**m a software engineer hailing from the northern part of India. I taught myself programming and web development while living in a farm at the outskirts of Bangalore, before transitioning myself into a full-stack developer role. 
+
+I aspire to be a true digital nomad, travelling to places and having interesting experiences.
+
+
+### Things I love:
+
+* Vipaasana
+* Unicycling
+* Fitness
